@@ -1,0 +1,9 @@
+{
+    "require": {
+        "lbuchs/webauthn": "2.2.0",
+        "ext-openssl": "*"
+    },
+    "config": {
+        "allow-plugins": false
+    }
+}
